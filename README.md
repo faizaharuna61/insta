@@ -41,6 +41,7 @@ The project should now be running on http://localhost:3000.
 
 ## Usage
 How does it work?
+here is the link for the instagram "https://insta-beta-mauve.vercel.app/"
 
 Once the project is running, users can:
 Sign up or log in using an email and password.
